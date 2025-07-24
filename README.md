@@ -68,7 +68,7 @@ TASK 1 :
 ## 🚀 Getting Started:
 
     * Open in git repository:
-    https://github.com/Harhal22Rangare/PERSONAL PORTFOLIO WEBPAGE  
+    https://github.com/Harshal22Rangare/HexSoftwares_MY-Personal-Portfolio  
     * Open in VS Code:
     Open the folder and launch Live Server or open index.html in your browser.
     
